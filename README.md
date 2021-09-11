@@ -1,4 +1,6 @@
-- 👋 Hi there, I’m Wei Liang, a 3rd Year Computer Science undergraduate at the National University of Singapore!
+### 👋 Personal Introduction
+---
+- 💻 Hi there, I'm Wei Liang, a 3rd Year Computer Science undergraduate at the National University of Singapore, and I'm also part of the interdisciplinary University Scholars Programme!
 - 👀 I’m personally interested in Artificial Intelligence and Machine Learning (Deep Learning in particular)
 - 🌿 Currently, I'm working on an image classification project based on the DeepWeeds dataset, using CNNs.
 - 🔈 I'm also a member of the Workshops Team at the NUS Statistics & Data Science society, and we organize technical workshops for general audiences!
